@@ -1,7 +1,7 @@
 ---
 title: "Créer une librairie de composants React"
 date: 2022-09-09T20:43:22+02:00
-draft: true
+draft: false
 ---
 - Initialisation projet
 - Implémentation rollup

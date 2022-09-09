@@ -1,4 +1,21 @@
 baseURL = 'https://blog.alexandrebrungiglio.fr'
 languageCode = 'fr'
-title = 'Alexandre Brun-Giglio | Blog'
+title = 'Blog - Tutoriels'
 theme = "paper"
+author = "Alexandre Brun-Giglio"
+description = "Bienvenue sur mon blog. Ici je poste régulièrement des actualités sur mes veilles technologiques ainsi que des tutoriels sur différents langages."
+showVisitedLinks = true
+disableInlineCopyToClipBoard = false
+disableShortcutsTitle = false
+disableLandingPageButton = false
+landingPageURL = "/"
+landingPageName = "<i class='fas fa-home'></i> Accueil"
+disableNextPrev = false
+
+[params]
+    color = 'linen'  
+    twitter = 'alexbrung5'     # twitter.com/alexbrung5
+    github = 'AlexBrunGiglio'       # github.com/AlexBrunGiglio
+    rss = true                      # show rss icon with link
+    name = 'Alexandre Brun-Giglio'
+    bio = 'Passionné par les technologies web, je mets mes compétences au service de vos besoins dans la réalisation de solutions web entièrement personnalisables.'

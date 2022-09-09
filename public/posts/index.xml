@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Alexandre Brun-Giglio | Blog</title>
+    <link>http://blog.alexandrebrungiglio.fr/posts/</link>
+    <description>Recent content in Posts on Alexandre Brun-Giglio | Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Fri, 09 Sep 2022 20:43:22 +0200</lastBuildDate><atom:link href="http://blog.alexandrebrungiglio.fr/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Créer une librairie de composants React</title>
+      <link>http://blog.alexandrebrungiglio.fr/posts/create-react-lib/</link>
+      <pubDate>Fri, 09 Sep 2022 20:43:22 +0200</pubDate>
+      
+      <guid>http://blog.alexandrebrungiglio.fr/posts/create-react-lib/</guid>
+      <description>Initialisation projet Implémentation rollup Implémentation CSS / Scss Optimisation de la librairie Implémentation des tests (JEST) Ajout d&amp;rsquo;une documentation de la lib (Storybook) Création projet yarn init yarn add react typescript @types/react --save-dev Il faudra ensuite créer un dossier src et dans celui-ci un dossier components. Le premier composant sera un bouton.
+. ├── src │ ├── components | │ ├── Button | | │ ├── Button.tsx | | │ └── index.</description>
+    </item>
+    
+  </channel>
+</rss>

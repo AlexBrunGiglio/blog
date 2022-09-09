@@ -1,0 +1,4 @@
+baseURL = 'http://blog.alexandrebrungiglio.fr'
+languageCode = 'fr'
+title = 'Alexandre Brun-Giglio | Blog'
+theme = "paper"

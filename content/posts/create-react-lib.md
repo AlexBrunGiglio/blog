@@ -57,6 +57,11 @@ export { default } from "./Button";
 
 `src/components/index.ts` :
 ```ts
+export { default as Button } from "./Button";
+```
+
+`src/index.ts` :
+```ts
 export * from './components';
 ```
 

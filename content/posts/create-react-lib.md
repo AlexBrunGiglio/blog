@@ -428,6 +428,6 @@ Dans le `tsconfig.json`, ajouter dans compilerOptions :
 
 En cas d'erreur il faudra peut être installer tslib :
 ```sh
-yarn -D tslib
+yarn add -D tslib
 ```
 
